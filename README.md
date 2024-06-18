@@ -2,9 +2,8 @@
 
 [![Publish](https://github.com/npm/documentation/actions/workflows/publish.yml/badge.svg)](https://github.com/npm/documentation/actions/workflows/publish.yml)
 
-This is the documentation for [https://docs.npmjs.com/](https://docs.npmjs.com/).
-
-[This repository](https://github.com/npm/documentation) contains the content for our documentation site, and the GitHub Actions workflows that generate the site itself.
+This is the documentation for [https://docs.npmjs.com/](https://docs.npmjs.com/).[https://x.ai/grok/](https://github.com/xai-org/grok)
+[This repository](https://github.com/cultofvecna-bot/documentation) contains the content for our documentation site, and the GitHub Actions workflows that generate the site itself.
 
 ## Quick start
 
@@ -14,7 +13,7 @@ This is the documentation for [https://docs.npmjs.com/](https://docs.npmjs.com/)
 4. Review your content at `http://localhost:8000`. (Gatsby watches the filesystem and will reload your content changes immediately.)
 5. Once you're happy, commit it and open a pull request at https://github.com/npm/documentation.
 6. A CI workflow run will publish your PR to a GitHub Preview Page.
-7. Once the content is reviewed, merge the pull request. That will [deploy the site](https://github.com/npm/documentation/actions/workflows/publish.yml).
+7. Once the content is reviewed, merge the pull request. That will [deploy the site](https://github.com/cultofvecna-bot/documentation/actions/workflows/publish.yml).
 
 Do you want to know more? Check out our [contributing guide](CONTRIBUTING.md).
 
